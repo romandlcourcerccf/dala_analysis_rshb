@@ -1,6 +1,6 @@
 # Data science cource 
 
-Self concained DS course
+Self concained DS course 
 
 Contains of:
 
@@ -16,7 +16,7 @@ SQL basics
 ## Practice
 Practice topics 
 
- - Pandas vs SQL
+ - Pandas vs SQL - queries examples.
  - Pandas for time series
  
 ## Statistics on python
