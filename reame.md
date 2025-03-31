@@ -19,4 +19,5 @@ Practice topics
  - Pandas vs SQL
  - Pandas for time series
  
-  
+## Statistics on python
+ - Statistics for python
